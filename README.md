@@ -18,8 +18,3 @@ A organização deste repositório é feita **por curso/bootcamp**. Cada pasta p
 │   ├── README.md                   <-- Visão geral, ementa e status do curso
 │   ├── projetos/                   <-- Desafios de projeto desenvolvidos
 │   └── exercicios/                 <-- Planilhas, scripts e arquivos de suporte
-│
-├── nome-do-proximo-curso/
-│   ├── README.md
-│   └── ...
-└── README.md                       <-- Este arquivo (Visão Geral)
